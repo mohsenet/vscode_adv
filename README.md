@@ -2,7 +2,8 @@
 
 #### vscode extention
 `ms-python.python`<br>
-`Django`
+`Django`<br>
+`ms-toolsai.datawrangler`<br>
 
 #### Show hiden file and folder 
 `Ctrl + h`
