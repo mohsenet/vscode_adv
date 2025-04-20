@@ -22,4 +22,6 @@ uv init
 uv add numpy pandas
 uv pip list
 uv pip freeze > requirements.txt
+# For unistall
+uv pip uninstall numpy pandas
 ```
