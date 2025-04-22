@@ -24,4 +24,10 @@ uv pip list
 uv pip freeze > requirements.txt
 # For unistall
 uv pip uninstall numpy pandas
+
+# Other way to uninstall
+# On Linux
+rm -rf venv/lib/python*/site-packages/numpy
+# On Windows
+del /s /q venv\Lib\site-packages\numpy
 ```
