@@ -31,3 +31,9 @@ rm -rf venv/lib/python*/site-packages/numpy
 # On Windows
 del /s /q venv\Lib\site-packages\numpy
 ```
+
+#### Update vscode
+```bash
+sudo apt update
+sudo apt upgrade code
+```
