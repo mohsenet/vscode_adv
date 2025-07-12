@@ -5,6 +5,7 @@
 `ms-toolsai.datawrangler`<br>
 
 ---
+
 #### brings up the Command Palette
 `Ctrl + Shift + p`
 
@@ -12,6 +13,7 @@
 
 #### Show hiden file and folder 
 `Ctrl + h`
+
 ---
 
 #### uv
