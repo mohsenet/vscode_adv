@@ -4,12 +4,15 @@
 `Django`<br>
 `ms-toolsai.datawrangler`<br>
 
-#### Show hiden file and folder 
-`Ctrl + h`
-
-#### Python: Select Interpreter
+---
 #### brings up the Command Palette
 `Ctrl + Shift + p`
+
+#### Python: Select Interpreter
+
+#### Show hiden file and folder 
+`Ctrl + h`
+---
 
 #### uv
 ```bash
