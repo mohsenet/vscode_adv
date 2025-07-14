@@ -2,7 +2,7 @@
 #### vscode extention
 `ms-python.python`<br>
 `Django`<br>
-`ms-toolsai.datawrangler`<br>
+`ms-toolsai.datawrangler` and `ms-toolsai.jupyter`<br>
 
 ---
 
