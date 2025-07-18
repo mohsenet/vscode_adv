@@ -3,6 +3,8 @@
 `ms-python.python`<br>
 `Django`<br>
 `ms-toolsai.datawrangler` and `ms-toolsai.jupyter`<br>
+`ms-azuretools.vscode-docker`<br>
+`ms-kubernetes-tools.vscode-kubernetes-tools`<br>
 
 ---
 
