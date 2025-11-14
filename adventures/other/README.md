@@ -59,7 +59,7 @@ uv run where python  # On Windows
 - Select the Python interpreter from your uv environment
 ```
 #### How can I access to Vscode settings:
-```text
+```latex
 "Ctrl+,"
 ```
 
