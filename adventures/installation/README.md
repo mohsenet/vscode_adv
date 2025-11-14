@@ -9,6 +9,12 @@ Select your OS version.<br>
 After select it will be download instalation file (for ubuntu: code_VERSION_amd64.deb)
 
 #### [3]
+Uninstall old version of vscode
+```bash
+sudo apt remove code
+```
+
+#### [4]
 Install the .deb file:
 ```bash
 sudo apt install ./code_VERSION_amd64.deb
