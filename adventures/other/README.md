@@ -2,15 +2,17 @@
 #### vscode extention
 `ms-python.python`<br>
 `Pylance`<br>
-```text
-Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
-ext install ms-python.vscode-pylance
-```
 `Django`<br>
 `ms-toolsai.datawrangler` and `ms-toolsai.jupyter`<br>
 `ms-azuretools.vscode-docker`<br>
 `ms-kubernetes-tools.vscode-kubernetes-tools`<br>
 `eamodio.gitlens`<br>
+
+```text
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+ext install ms-python.python
+ext install ms-python.vscode-pylance
+```
 
 ---
 
