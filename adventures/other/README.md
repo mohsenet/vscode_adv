@@ -1,6 +1,7 @@
 
 #### vscode extention
 `ms-python.python`<br>
+`Pylance`<br>
 `Django`<br>
 `ms-toolsai.datawrangler` and `ms-toolsai.jupyter`<br>
 `ms-azuretools.vscode-docker`<br>
