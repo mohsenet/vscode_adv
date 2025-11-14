@@ -58,6 +58,10 @@ uv run where python  # On Windows
 - Choose the command from the dropdown
 - Select the Python interpreter from your uv environment
 ```
+#### How can I access to Vscode settings:
+```text
+"Ctrl+,"
+```
 
 #### Update vscode
 ```bash
