@@ -45,6 +45,19 @@ rm -rf venv/lib/python*/site-packages/numpy
 # On Windows
 del /s /q venv\Lib\site-packages\numpy
 ```
+#### Find the Python Interpreter Path:
+```bash
+# This will show you the Python executable path
+uv run which python  # On Linux/Mac
+uv run where python  # On Windows
+```
+#### Select Interpreter in VSCode: 
+```latex
+- Press Ctrl+Shift+P
+- Type "Python: Select Interpreter"
+- Choose the command from the dropdown
+- Select the Python interpreter from your uv environment
+```
 
 #### Update vscode
 ```bash
