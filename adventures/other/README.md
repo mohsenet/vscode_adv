@@ -62,6 +62,10 @@ uv run where python  # On Windows
 ```latex
 "Ctrl+,"
 ```
+search parameter
+```latex
+python.analysis.typeCheckingMode
+```
 
 #### Update vscode
 ```bash
