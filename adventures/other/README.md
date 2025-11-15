@@ -68,6 +68,13 @@ search parameter (For example, enable typeCheckingMode)
 ```latex
 python.analysis.typeCheckingMode
 ```
+Other way to access this config:
+```latext
+cd /home/mohsen/.config/Code/User
+```
+```latext
+settings.json
+```
 
 #### Update vscode
 ```bash
