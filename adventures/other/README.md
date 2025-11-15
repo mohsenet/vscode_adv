@@ -59,10 +59,12 @@ uv run where python  # On Windows
 - Select the Python interpreter from your uv environment
 ```
 #### How can I access to Vscode settings:
+##### Step 1
 ```latex
 "Ctrl+,"
 ```
-search parameter
+##### Step 2
+search parameter (For example, enable typeCheckingMode)
 ```latex
 python.analysis.typeCheckingMode
 ```
